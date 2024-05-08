@@ -35,7 +35,10 @@ Details about the datasets and their preprocessing are included within the Jupyt
 * `/data`-Directory containing the processed datasets used in the project.
 * `/docs`-Documentation and Datafolio materials designed in Canva.
 * `requirements.txt`-Required Python libraries for the project.
-  
+
+## Contributing
+We welcome contributions to enhance the predictive models or extend the dashboard functionalities. Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests.
+
 ## Acknowledgments
 * Thanks to everyone who voted for our project as the crowd favorite.
 * Special thanks to the data providers for making their data available for public use.
