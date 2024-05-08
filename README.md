@@ -31,8 +31,8 @@ Access the interactive dashboard developed in Tableau Public through this link: 
 Details about the datasets and their preprocessing are included within the Jupyter notebooks.
 
 ## Project Structure
-* `/notebooks`-Contains the Jupyter notebooks detailing the data analysis and modeling steps.
-* `/data`-Directory containing the processed datasets used in the project.
+* `/02 Data Cleaning`, `03 EDA Preliminary`, `04 Merging Datasets`, `05 EDA In-Depth`, `06 Multi-criteria Decision Analysis`-Contains the Jupyter notebooks detailing the data cleaning, EDA analysis and modeling steps.
+* `/01 Datasets`-Directory containing the processed datasets used in the project.
 * `/docs`-Documentation and Datafolio materials designed in Canva.
 * `requirements.txt`-Required Python libraries for the project.
 
