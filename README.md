@@ -22,7 +22,7 @@ pip install -r requirements.txt
 * Download and install Synthea for generating synthetic patient data
 
 ## Interactive Dashboard
-Access the interactive dashboard developed in Tableau Public through this link: [Safe Trip Recommender]([https://public.tableau.com/app/profile/lynnetta.bonsu/viz/C1Project2022/CapstoneProjectRevisionStory]). 
+Access the interactive dashboard developed in Tableau Public through this link: [Safe Trip Recommender](https://public.tableau.com/app/profile/lynnetta.bonsu/viz/C1Project2022/CapstoneProjectRevisionStory). 
 
 ## Data Sources
 * **Social Progress Index (SPI)**
